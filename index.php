@@ -10,7 +10,11 @@
     echo ' <body>';
     echo '     <h1>Strona w przygotowaniu</h1>';
     echo date('H:i:s d/m/Y');
+
+
     echo ' </body>';
     echo ' </html>';
+
+
     
 ?>
